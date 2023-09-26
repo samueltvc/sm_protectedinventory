@@ -1,8 +1,6 @@
 If you need support or any help, contact me on discord!
 Discord: https://discord.gg/jdKJmuVVV
 
-1. All installation guides can be found in folder install!
-
 ### Requirements
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 
